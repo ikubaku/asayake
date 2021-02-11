@@ -1,0 +1,6 @@
+= asayake
+
+A Pelican theme suitable for your own web site.
+
+== License
+See link:LICENSE[].
